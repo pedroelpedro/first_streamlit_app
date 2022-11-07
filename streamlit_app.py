@@ -1,3 +1,6 @@
 import streamlit
 
-streamlit.title('My Unhealthy Parents Restauranty Eaty Vegan Place')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blackberry Oatmeal Worms')
+streamlit.text('Kale, Beetroot, Spinach & Rocket Milkshake')
+streamlit.text('Well-Boiled Extra-Range Swan Eggs with Toasted Poppy Seeds')
